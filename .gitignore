@@ -1,0 +1,19 @@
+# Geheimnisse
+.env
+.env.*
+!.env.example
+
+# Laufzeitdaten und Sicherungen
+backups/
+local-files/
+data/
+
+# Protokolle und lokale Werkzeuge
+*.log
+.vscode/
+.DS_Store
+
+# Persönliche Bewerbungsdaten
+config/profile.yaml
+cv.*
+!cv.example.md
