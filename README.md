@@ -52,8 +52,8 @@ Backups werden nicht im Git-Repository gespeichert.
 - [x] Ubuntu-Server analysiert
 - [x] Docker Engine und Docker Compose geprüft
 - [x] Lokales Git-Repository initialisiert
-- [ ] n8n und PostgreSQL konfiguriert
-- [ ] HTTPS-Zugriff eingerichtet
+- [x] n8n und PostgreSQL konfiguriert
+- [x] HTTPS-Zugriff eingerichtet
 - [ ] Gemini-Workflow implementiert
 - [ ] Evaluation und Fehlerbehandlung implementiert
-- [ ] Backup und Wiederherstellung getestet
+- [x] Backup und Wiederherstellung getestet
